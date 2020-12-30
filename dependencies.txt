@@ -1,0 +1,8 @@
+python software:
+   The packages which need to be installed
+        1.pip
+        2.tweepy
+        3.textblob
+        4.stop_words
+        5.nltk
+        
